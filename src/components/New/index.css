@@ -1,0 +1,16 @@
+.carousel-control-next,
+.carousel-control-prev {
+  filter: invert(100%);
+}
+
+.carousel-control {
+  width: 4%;
+}
+
+.carousel-control-prev-icon {
+  margin-right: 120px;
+}
+
+.carousel-control-next-icon {
+  margin-left: 120px;
+}

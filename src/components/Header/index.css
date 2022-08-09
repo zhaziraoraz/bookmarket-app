@@ -1,0 +1,8 @@
+.d-flex i {
+  -webkit-text-stroke: 0.1px;
+  font-size: 28px;
+}
+
+li i {
+  -webkit-text-stroke: 0.4px;
+}
